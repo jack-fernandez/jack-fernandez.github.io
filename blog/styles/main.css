@@ -1,0 +1,91 @@
+body {
+  background-color: black;
+}
+.nav-title {
+  background-color: red;
+  color: black;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 3px;
+  text-align: center;
+}
+.nav-links {
+  background-color: red;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 3px;
+  text-align: left;
+}
+p {
+  background-color: red;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 3px;
+  text-align: left;
+}
+.font {
+  background-color: grey;
+  color: black;
+  font-family: monospace;
+}
+<style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2008/12/17/cool-blue-outer-glow-pointer.html" target="_blank" title="Cool Blue Outer Glow Pointer"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Cool Blue Outer Glow Pointer" style="position:absolute; top: 0px; right: 0px;" /></a>
+p {
+  	margin-top: 0;
+}
+a {
+  color: black;
+  padding: 2px;
+}
+
+.col-1 {
+   width: 8.33%;
+}
+.col-2 {
+   width: 16.66%;
+}
+.col-3 {
+   width: 20%;
+   float: left;
+}
+.col-4 {
+   width: 33.33%;
+}
+.col-5 {
+   width: 41.66%;
+}
+.col-6 {
+   width: 45%;
+}
+.col-7 {
+   width: 58.33%;
+}
+.col-8 {
+   width: 66.66%;
+}
+.col-9 {
+   width: 70%;
+   float: left;
+}
+.col-10 {
+   width: 83.33%;
+}
+.col-11 {
+   width: 91.66%;
+}
+.col-12 {
+   width: 100%;
+}
