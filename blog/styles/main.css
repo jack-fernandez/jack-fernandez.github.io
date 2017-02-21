@@ -1,40 +1,53 @@
 body {
   background-color: black;
+  background-image: url(http://www.guoguiyan.com/data/out/5/69254997-amazing-hd-wallpapers.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /*background-position: center;*/
 }
 .nav-title {
-  background-color: red;
-  color: black;
-  padding: 10px 10px 10px 10px;
+  font-size: 70px;
+  border-radius: 9px;
+  background-color: rgba(255, 255, 255, 0.8);
+  font-family: sans-serif;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   margin-top: 10px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 3px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   text-align: center;
+  display: inline-block;
 }
 .nav-links {
-  background-color: red;
+  display: inline-block;
+  border-radius: 9px;
+  background-color: rgba(255, 255, 255, 0.8);
   color: black;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 48px;
+  padding-bottom: 12px;
   margin-top: 10px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 3px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   text-align: left;
 }
 p {
-  background-color: red;
-  color: black;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  border-radius: 9px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: balck;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   margin-top: 10px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 3px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
   text-align: left;
 }
 .font {
@@ -68,7 +81,7 @@ a {
    width: 41.66%;
 }
 .col-6 {
-   width: 45%;
+   width: 43.8%;
 }
 .col-7 {
    width: 58.33%;
