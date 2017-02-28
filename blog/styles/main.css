@@ -3,204 +3,267 @@ body {
   background-image: url(https://static.pexels.com/photos/160107/pexels-photo-160107.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-  cursor: url(cursor.gif), pointer;
-  /*background-position: center;*/
+  background-position: top;
 }
 .nav-title {
-  font-size: 70px;
-  border-top-left-radius: 9px;
-  background-color: rgba(255, 255, 255, 0.5);
-  font-family: cursive;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  color: black;
+  padding: 20px 20px 20px 20px;
   margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 5px;
+  margin-right: 5px;
   text-align: center;
-  display: inline-block;
+  font-size: 40px;
+  font-family: cursive;
 }
 .nav-links {
-  font-family: cursive;
-  font-size: 20px;
-  display: inline-block;
-  border-top-right-radius: 9px;
-  background-color: rgba(255, 255, 255, 0.5);
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 19%;
+  background-color: rgba(100, 100, 100, 0.5);
   color: black;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 55px;
-  padding-bottom: 15px;
-  margin-top: 20px;
+  padding: 10px 10px 10px 10px;
+  margin-top: ;
   margin-bottom: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-  text-align: left;
-}
-.contacts {
-  display: inline-block;
-}
-.scroll{
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+  width: auto;
+  font-size: 15px;
   font-family: cursive;
-  font-size: 20px;
-  color: white;
-}
-.reflection{
-  text-align: left;
-}
-.time{
-  text-align: left;
-}
-.blogs{
-  font-family: cursive;
-  font-size: 20px;
-  display: inline-block;
-  border-top-right-radius: 9px;
-  background-color: rgba(255, 255, 255, 0.5);
-  color: black;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 55px;
-  padding-bottom: 15px;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-  text-align: left;
-}
-div {
-
-}
-p {
-
-}
-.html-des{
-  border-radius: 9px;
-  font-family: cursive;
-  background-color: rgba(255, 255, 255, 0.5);
-  color: black;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-top: 10px;
-  margin-bottom: 15px;
-  margin-left: 35px;
-  margin-right: 50px;
-  text-align: left;
-  display: inline-block;
-}
-.me-image {
-  display: inline-block;
-  width: 400px;
-  opacity: 0.8;
-
-}
-.html-image {
-border-radius: 9px;
-font-family: cursive;
-background-color: rgba(255, 255, 255, 0.5);
-color: black;
-padding-left: 30px;
-padding-right: 30px;
-padding-top: 30px;
-padding-bottom: 30px;
-margin-top: -5px;
-margin-bottom: 20px;
-margin-left: 8px;
-margin-right: 10px;
-text-align: left;
-display: inline-block;
-opacity: 0.8;
-width: 550px;
-}
-.font {
-  background-color: grey;
-  color: black;
-  font-family: monospace;
-}
-.secondCol {
-border-bottom-right-radius: 9px;
-font-family: cursive;
-background-color: rgba(255, 255, 255, 0.5);
-padding-left: 30px;
-padding-right: 30px;
-padding-top: 0px;
-padding-bottom: 0px;
-margin-top: 10px;
-margin-bottom: 10px;
-margin-left: 10px;
-margin-right: 10px;
-text-align: center;
-display: inline-block;
-position: absolute;
 }
 .info {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  color: black;
   font-family: cursive;
-  background-color: rgba(255, 255, 255, 0.5);
-  color: black;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-top: 10px;
-  margin-bottom: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
-  text-align: left;
-  display: inline-block;}
-<style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2008/12/17/cool-blue-outer-glow-pointer.html" target="_blank" title="Cool Blue Outer Glow Pointer"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Cool Blue Outer Glow Pointer" style="position:absolute; top: 0px; right: 0px;" /></a>
-p {
-  	margin-top: 0;
-}
-a {
-  color: black;
-  padding: 2px;
-}
-
-.col-1 {
-   width: 8.33%;
-}
-.col-2 {
-   width: 16.66%;
-}
-.col-3 {
-   width: 19%;
-   display: inline-block;
-}
-.n-3 {
+  width: 51%;
   display: inline-block;
-  width: 33%
+  float: right;
 }
-.col-4 {
-   width: 678px;
+.languages-intro {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+  width: 44%;
+  display: inline-block;
+  float: left;
 }
-.col-5 {
-   width: 610px;
-   display: inline-block;
+.reflection {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+  text-align: center;
 }
-.col-6 {
-   width: 43.8%;
-   display: inline-block;
+.emotional {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+  text-align: center;
 }
-.col-7 {
-   width: 58.33%;
+.time {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+  text-align: center;
 }
-.col-8 {
-   width: 66.66%;
+.contacts {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
 }
-.col-9 {
-   width: 70%;
-   float: left;
+a:link {
+  font-family: cursive;
+  background-color: rgba(100, 100, 100, 0.0);
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.col-10 {
-   width: 83.33%;
+a:visited {
+  font-family: cursive;
+  background-color: rgba(100, 100, 100, 0.0);
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.col-11 {
-   width: 91.66%;
+a:hover {
+  font-family: cursive;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 9px;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.col-12 {
-   width: 100%;
+a:active {
+  font-family: cursive;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 9px;
+  color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.sprints {
+  width: 30%;
+}
+.sprint-1 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-2 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-3 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-4 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-5 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-6 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-7 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+}
+.sprint-8 {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
 }
