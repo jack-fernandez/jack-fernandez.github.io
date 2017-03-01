@@ -1,16 +1,19 @@
 body {
   background-color: black;
-  background-image: url(https://static.pexels.com/photos/160107/pexels-photo-160107.jpeg);
+  background-image: url(https://static.pexels.com/photos/220444/pexels-photo-220444.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: center;
 }
 .nav-title {
   padding-left: 10px;
   padding-right: 10px;
   background-color: rgba(100, 100, 100, 0.5);
   color: black;
-  padding: 20px 20px 20px 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   margin-top: 10px;
   margin-bottom: 0px;
   margin-left: 5px;
@@ -18,15 +21,19 @@ body {
   text-align: center;
   font-size: 40px;
   font-family: cursive;
+  border-top-right-radius: 9px;
+  border-top-left-radius: 9px;
+  border-top: solid black;
 }
 .nav-links {
-  padding-left: 10px;
-  padding-right: 10px;
   width: 19%;
   background-color: rgba(100, 100, 100, 0.5);
   color: black;
-  padding: 10px 10px 10px 10px;
-  margin-top: ;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
   margin-bottom: 10px;
   margin-left: 5px;
   margin-right: 5px;
@@ -50,6 +57,7 @@ body {
   width: 51%;
   display: inline-block;
   float: right;
+  border-bottom-right-radius: 9px;
 }
 .languages-intro {
   padding-left: 10px;
@@ -66,6 +74,7 @@ body {
   width: 44%;
   display: inline-block;
   float: left;
+  border-bottom-left-radius: 9px;
 }
 .reflection {
   padding-left: 10px;
@@ -80,6 +89,8 @@ body {
   font-family: cursive;
   color: black;
   text-align: center;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
 }
 .emotional {
   padding-left: 10px;
@@ -94,6 +105,8 @@ body {
   font-family: cursive;
   color: black;
   text-align: center;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
 }
 .t2-html-css {
   padding-left: 10px;
@@ -108,7 +121,8 @@ body {
   font-family: cursive;
   color: black;
   text-align: center;
-}
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;}
 .time {
   padding-left: 10px;
   padding-right: 10px;
@@ -122,6 +136,8 @@ body {
   font-family: cursive;
   color: black;
   text-align: center;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
 }
 .contacts {
   padding-left: 10px;
@@ -135,6 +151,8 @@ body {
   background-color: rgba(100, 100, 100, 0.5);
   font-family: cursive;
   color: black;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
 }
 a:link {
   font-family: cursive;
@@ -156,7 +174,7 @@ a:visited {
 }
 a:hover {
   font-family: cursive;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(50, 50, 50, 0.5);
   border-radius: 9px;
   color: black;
   padding-top: 5px;
@@ -166,16 +184,13 @@ a:hover {
 }
 a:active {
   font-family: cursive;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(50, 50, 50, 0.5);
   border-radius: 9px;
   color: black;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 10px;
   padding-right: 10px;
-}
-.sprints {
-  width: 30%;
 }
 .sprint-1 {
   padding-left: 10px;
@@ -280,4 +295,7 @@ a:active {
   background-color: rgba(100, 100, 100, 0.5);
   font-family: cursive;
   color: black;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+
 }
