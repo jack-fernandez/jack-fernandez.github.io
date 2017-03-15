@@ -1,29 +1,27 @@
 body {
-  background-color: black;
   background-image: url(https://static.pexels.com/photos/220444/pexels-photo-220444.jpeg);
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: black;
+  background-size: cover;
 }
 .nav-title {
-  padding-left: 10px;
-  padding-right: 10px;
   background-color: rgba(100, 100, 100, 0.5);
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-top: 10px;
-  margin-bottom: 0px;
-  margin-left: 5px;
-  margin-right: 5px;
-  text-align: center;
-  font-size: 40px;
-  font-family: cursive;
   border-top-right-radius: 9px;
   border-top-left-radius: 9px;
   border-top: solid black;
+  font-family: cursive;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 0px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-left: 5px;
+  text-align: center;
+  font-size: 40px;
+  color: black;
 }
 .nav-links {
   width: 19%;
@@ -58,6 +56,7 @@ body {
   display: inline-block;
   float: right;
   border-bottom-right-radius: 9px;
+  clear: both;
 }
 .languages-intro {
   padding-left: 10px;
@@ -122,8 +121,41 @@ body {
   color: black;
   text-align: center;
   border-bottom-left-radius: 9px;
-  border-bottom-right-radius: 9px;}
+  border-bottom-right-radius: 9px;
+}
 .time {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+  text-align: center;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+}
+.design-to-web {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(100, 100, 100, 0.5);
+  font-family: cursive;
+  color: black;
+  text-align: center;
+  border-bottom-left-radius: 9px;
+  border-bottom-right-radius: 9px;
+}
+.Meditation-Process {
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
@@ -297,5 +329,11 @@ a:active {
   color: black;
   border-bottom-left-radius: 9px;
   border-bottom-right-radius: 9px;
-
+}
+h1 {
+	margin: 50px auto;
+	text-align: center;
+	text-shadow: -1px -1px 0px rgba(255,0,0,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+	color: #333;
+	font: 700 80px;
 }
